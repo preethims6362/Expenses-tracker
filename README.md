@@ -26,7 +26,7 @@ npm or yarn installed.
 
 Steps
 Clone the Repository
-git clone https://github.com/your-username/expense-tracker-react.git
+git clone https://github.com/preethims6362/expense-tracker-react.git
 
 Navigate to the Project Directory
 cd expense-tracker-react
